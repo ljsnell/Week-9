@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ExampleTextFileCharacterAnalysis {
+public class ExampleFacialRecognition {
 	static Scanner userinput = new Scanner(System.in);
 	public static void main (String[] args)
 	{
